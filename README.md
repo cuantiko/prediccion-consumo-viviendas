@@ -51,7 +51,7 @@ siendo $\vec{v}$ un par $(w,b)$ y $\alpha$ el ratio de aprendizaje (learning rat
 ## 📈 Visualización de los resultados clave
 - **Consumo base**: $2878.04\, kWh$
 - **Consumo adicional por pie al cuadrado**: $0.05\,kWh/ft^2$
-![Consumo eléctrico (kWh) frente a tamaño vivienda (ft^2)](images/regresionlineal_imagen.png)
+![Consumo eléctrico (kWh) frente a tamaño vivienda (ft^2)](/regresionlineal_imagen.png)
 ## 💼 Conclusiones clave
 - Existe un **consumo base garantizado** de ~2878 kWh por vivienda, independientemente de su tamaño.  
 - Por cada pie cuadrado adicional de superficie, el consumo eléctrico promedio aumenta en **0.05 kWh**.  
